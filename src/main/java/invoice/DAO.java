@@ -77,9 +77,8 @@ public class DAO {
 	 * @throws java.lang.Exception si la transaction a échoué
 	 */
 	public void createInvoice(CustomerEntity customer, int[] productIDs, int[] quantities)
-		throws Exception {
-		throw new UnsupportedOperationException("Pas encore implémenté");
-	}
+		 {//String sql = "INSERT INTO ";
+                 }
 
 	/**
 	 *
